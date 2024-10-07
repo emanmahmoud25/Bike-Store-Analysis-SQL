@@ -1,4 +1,5 @@
-Bike Store Analysis Project
+
+## **Bike Store Analysis Project**
 
 <img width="610" alt="diagram" src="https://github.com/user-attachments/assets/901b5f28-d8ed-42e2-8daf-829082ef2fdf">
 
