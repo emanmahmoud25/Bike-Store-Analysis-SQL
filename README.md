@@ -1,4 +1,5 @@
 Bike Store Analysis Project
+
 <img width="610" alt="diagram" src="https://github.com/user-attachments/assets/901b5f28-d8ed-42e2-8daf-829082ef2fdf">
 
 This project uses SQL to analyze the bike store's sales, customer behavior, and inventory management. The key insights include:
